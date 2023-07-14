@@ -1,6 +1,5 @@
 import React from "react";
 import { SearchBar } from "./searchBar";
-import { NavigationBar } from "./navigationBar";
 
 export const DiscoverHeader = () => {
   return (
@@ -10,7 +9,6 @@ export const DiscoverHeader = () => {
         <img src="/notification.svg" alt="notification-icon" />
       </div>
       <SearchBar />
-      <NavigationBar />
     </div>
   );
 };
