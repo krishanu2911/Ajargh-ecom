@@ -1,10 +1,11 @@
-
+import { RoutePath } from "./route";
 
 function App() {
-
   return (
-    <div className=" min-h-screen w-screen bg-teal-700"></div>
-  )
+    <div className="min-h-screen w-screen">
+      <RoutePath />
+    </div>
+  );
 }
 
-export default App
+export default App;
