@@ -1,7 +1,11 @@
 import React from 'react'
+import { CartHeader, CartListing } from "../../components/index"
 
 export const CartPage = () => {
   return (
-    <div>CartPage</div>
+    <div className=' w-full'>
+      <CartHeader />
+      <CartListing />
+    </div>
   )
 }
