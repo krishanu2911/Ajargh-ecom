@@ -16,6 +16,7 @@ export const CartListing = () => {
             })}
           </div>
           <div className="flex flex-col gap-1">
+            <div className="primary-bg px-5 py-3 rounded-lg text-gray-500 mb-4">Add a Voucher</div>
             <div className="w-full flex justify-between gap-20">
               <h1 className="text-gray-500 text-lg">Sub-total</h1>
               <h1 className="font-semibold text-lg">INR {totalPrice}</h1>
