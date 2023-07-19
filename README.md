@@ -5,7 +5,7 @@
 
 
 
-https://github.com/krishanu2911/Ajargh-ecom/assets/75560307/cc74355e-3dc0-4df2-a171-d658086afceb
+https://github.com/krishanu2911/Ajargh-ecom/assets/75560307/f7ea4d47-8a44-4323-87dc-40d992fae235
 
 
 
