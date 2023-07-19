@@ -1,6 +1,14 @@
 # Ajargh-ecom
 [Live Link](https://ajargh-ecom.vercel.app/)
 
+## Demo
+
+
+
+https://github.com/krishanu2911/Ajargh-ecom/assets/75560307/cc74355e-3dc0-4df2-a171-d658086afceb
+
+
+
 ## tech used: 
 - React
 - tailwindcss
